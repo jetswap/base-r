@@ -7,4 +7,4 @@ status: active
 
 # Profile: power
 
-Welcome to your new profile.
+Welcome to your new profile. Fucker <3
