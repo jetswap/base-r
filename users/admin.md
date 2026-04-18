@@ -7,4 +7,5 @@ status: active
 
 # Profile: admin
 
-Welcome to your new profile. <3
+Welcome to your new profile. 
+<3
