@@ -9,3 +9,5 @@ status: active
 
 Welcome to your new profile. 
 <3
+
+Привет, всем фрилансерам! Мир, дружба, жвачка 😁
