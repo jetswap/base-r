@@ -4,14 +4,14 @@ description: Современный многоязычный фронтенд т
 category: web-app
 status: completed
 author: FedoseevSM
-authorAvatar: 
+authorAvatar: https://github.com/FedoseevSM.png
 tags: ["travel"]
 githubUrl: https://github.com/FedoseevSM/travel-agency-frontend
 liveUrl: https://thai.guru
 budget: 
 deadline: 
 priority: high
-images: ["https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41577/body/qOJIkrV-rc/img-3639_1775999160.webp"]
+images: ["https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41577/body/fOfly_k7fW/img-3638_1775999109.webp", "https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41577/body/qOJIkrV-rc/img-3639_1775999160.webp"]
 thumbnail: https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41577/body/fOfly_k7fW/img-3638_1775999109.webp
 collaborators: ["FedoseevSM"]
 techStack: ["react","vite"]
