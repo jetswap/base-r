@@ -4,15 +4,15 @@ description: Клиентское мобильное приложение 3 в 1
 category: web-app
 status: completed
 author: FedoseevSM
-authorAvatar: 
+authorAvatar: https://github.com/FedoseevSM.png
 tags: ["mobile"]
 githubUrl: https://github.com/FedoseevSM/client-wana2
 liveUrl: https://client.wana2.com/
 budget: 
 deadline: 
 priority: high
-images: ["https://wana2.com/assets/hero-C3tVXca2.png","https://wana2.com/assets/screen-4-uKUOR3kZ.png"]
-thumbnail: https://wana2.com/assets/screen-1-sQGSsXpi.png
+images: ["https://8upload.com/image/f2dbfff20fb7aaec/IMG_4017.png","https://8upload.com/image/5c6325a70d8bb1a6/IMG_4018.png", "https://8upload.com/image/a4c2e3e706e2d3a1/IMG_4019.png"]
+thumbnail: https://8upload.com/image/f2dbfff20fb7aaec/IMG_4017.png
 techStack: ["react","capacitor"]
 content: Полностью адаптивное для iOS/Android/PWA с картами, уведомлениями и защищенной авторизацией.
 createdAt: 2026-04-23T13:32:53.050Z
