@@ -11,7 +11,7 @@ liveUrl:
 budget: 
 deadline: 
 priority: high
-images: ["https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41757/body/ItQQEZdgPd/screenshot-2025-07-16-at-11-47-40-am_1776105458.webp"]
+images: ["https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41757/body/ItQQEZdgPd/screenshot-2025-07-16-at-11-47-40-am_1776105458.webp", "https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41757/body/2rEd36RDPr/screenshot-2025-07-16-at-11-47-19-am_1776106571.webp", "https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41757/body/zSILIe-Q5j/screenshot-2025-07-16-at-11-47-04-am_1776107067.webp"]
 thumbnail: https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41757/body/ItQQEZdgPd/screenshot-2025-07-16-at-11-47-40-am_1776105458.webp
 techStack: ["react","vite"]
 content: Динамичный интерфейс для тысяч позиций, с фильтрами, поиском и синхронизацией данных из 1С Управление сайтом, чтобы упростить задачу быстрого поиска и повысить конверсию.
