@@ -13,7 +13,6 @@ deadline:
 priority: high
 images: ["https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41577/body/fOfly_k7fW/img-3638_1775999109.webp", "https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41577/body/qOJIkrV-rc/img-3639_1775999160.webp"]
 thumbnail: https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41577/body/fOfly_k7fW/img-3638_1775999109.webp
-collaborators: ["FedoseevSM"]
 techStack: ["react","vite"]
 content: Структура выглядит очень профессионально и соответствует уровню Enterprise: здесь есть Supabase Edge Functions, AI чат-бот, полная локализация и продвинутые фильтры услуг.
 createdAt: 2026-04-23T13:01:45.784Z
