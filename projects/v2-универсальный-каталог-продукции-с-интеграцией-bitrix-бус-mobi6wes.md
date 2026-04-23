@@ -11,6 +11,7 @@ liveUrl:
 budget: 
 deadline: 
 priority: high
+images: ["https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41757/body/ItQQEZdgPd/screenshot-2025-07-16-at-11-47-40-am_1776105458.webp"]
 thumbnail: https://dsgners.ru/_imgs/2500x2000/files/blog_posts/41757/body/ItQQEZdgPd/screenshot-2025-07-16-at-11-47-40-am_1776105458.webp
 techStack: ["react","vite"]
 content: Динамичный интерфейс для тысяч позиций, с фильтрами, поиском и синхронизацией данных из 1С Управление сайтом, чтобы упростить задачу быстрого поиска и повысить конверсию.
