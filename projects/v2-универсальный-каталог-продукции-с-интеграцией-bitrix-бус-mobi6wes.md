@@ -4,7 +4,7 @@ description: Интеграция через REST API БУС: автоматич
 category: web-app
 status: completed
 author: FedoseevSM
-authorAvatar: 
+authorAvatar: https://github.com/FedoseevSM.png
 tags: ["e-shop"]
 githubUrl: https://github.com/FedoseevSM/v2
 liveUrl: 
